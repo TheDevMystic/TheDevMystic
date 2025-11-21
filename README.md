@@ -4,6 +4,10 @@
 
 [Profile Photo](./banner.png)
 
+---
+
+### Expertise 
+
 <p align="center">
   
 ![C](https://img.shields.io/badge/C-ebdbb2?style=for-the-badge&logo=c&logoColor=458588)
@@ -63,4 +67,52 @@ I'm currently focused on building my **Personal Website** along with developing*
 
 ### 📊 GitHub Stats
 
-[![Profile Stats](https://github-readme-stats.vercel.app/api?username=TheDevMystic&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Profile Stats](https://github-readme-stats.vercel.app/api?username=TheDevMystic&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDevMystic&layout=compact&langs_count=6&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<h3>🌐 Connect With Me</h3>
+
+<p align="left">
+    <a href="https://linkedin.com/in/thedevmystic">
+        <img src="https://img.shields.io/badge/LinkedIn-ebdbb2?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn Badge"/>
+    </a>
+    <br/> 
+    <a href="https://thedevmystic.github.io">
+        <img src="https://img.shields.io/badge/Portfolio-b8bb26?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Portfolio Badge"/>
+    </a>
+    <br/>
+    <a href="mailto:thedevmystic@gmail.com">
+        <img src="https://img.shields.io/badge/Email-fb4934?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email Badge"/>
+    </a>
+    <br/>
+    <a href="https://x.com/thedevmystic">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X Badge"/>
+    </a>
+    <br/>
+    <a href="https://youtube.com/@thedevmystic">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF" alt="YouTube Badge"/>
+    </a>
+    <br/>
+    <a href="https://instagram.com/thedevmystic">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram Badge"/>
+    </a>
+    <br/>
+    <a href="https://reddit.com/user/thedevmystic_">
+        <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=FFFFFF" alt="Reddit Badge"/>
+    </a>
+</p>
+
+---
+
+### Last Words
+
+Bitterest tears cried over graves are for deeds left undone and words left unspoken.
+
+So, Live the Life to its Fullest! 🙂
+
+*Signing off, Surya!*
+
+---
