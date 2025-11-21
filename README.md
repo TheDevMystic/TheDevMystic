@@ -75,7 +75,7 @@ I'm currently focused on building my **Personal Website** along with developing*
 
 <h3>🌐 Connect With Me</h3>
 
-<p align="left">
+<p align="center">
     <a href="https://linkedin.com/in/thedevmystic">
         <img src="https://img.shields.io/badge/LinkedIn-ebdbb2?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn Badge"/>
     </a>
