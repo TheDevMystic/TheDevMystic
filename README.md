@@ -1,1 +1,1 @@
-[![Profile Stats](https://github-readme-stats.vercel.app/api?username=TheDevMystic&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Profile Stats](https://github-readme-stats.vercel.app/api?username=TheDevMystic&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
