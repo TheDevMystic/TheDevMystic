@@ -1,8 +1,6 @@
 ## ✨ Welcome to Surya's Bizzare Adventures! ✨
 
----
-
-[Profile Photo](./banner.png)
+![Profile Photo](https://raw.githubusercontent.com/TheDevMystic/TheDevMystic/refs/heads/main/banner.png)
 
 ---
 
